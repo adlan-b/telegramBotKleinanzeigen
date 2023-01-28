@@ -1,0 +1,27 @@
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+*.idea/
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Java build files
+target/
+out/
+*.class
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA system files
+*.log
+*.tmp
+*.temp
+
+# Other files
+*.DS_Store
+*.swp
