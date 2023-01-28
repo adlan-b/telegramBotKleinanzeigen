@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20edea2b-ac5a-4bf0-a13c-349e8df36fed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_14_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kleinanzeige.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kleinanzeige.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1674907377037" duration="1560000" />
       <workItem from="1674908969515" duration="3291000" />
       <workItem from="1674912627277" duration="596000" />
-      <workItem from="1674933010454" duration="2256000" />
+      <workItem from="1674933010454" duration="4407000" />
     </task>
     <servers />
   </component>
