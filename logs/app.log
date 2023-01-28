@@ -24,3 +24,23 @@
 2023-01-28 20:50:03,911 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument in
 2023-01-28 20:50:03,911 WARN p.Parser [@ebay_kleinanzege_bot Telegram Executor] Total path https://www.ebay-kleinanzeigen.de/start/k0
 2023-01-28 20:50:03,918 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument out
+2023-01-28 21:31:46,940 INFO t.Bot [main] Init variables, token and username
+2023-01-28 21:31:47,622 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] getConnect in
+2023-01-28 21:31:48,195 DEBUG p.Parser [@ebay_kleinanzege_bot Telegram Executor] 200 : https://www.ebay-kleinanzeigen.de/iphone/k0
+2023-01-28 21:31:49,199 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] getConnect out
+2023-01-28 21:31:49,293 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument in
+2023-01-28 21:31:49,300 WARN p.Parser [@ebay_kleinanzege_bot Telegram Executor] Total path https://www.ebay-kleinanzeigen.de/iphone/k0
+2023-01-28 21:31:49,311 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument out
+2023-01-28 21:31:58,137 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] getConnect in
+2023-01-28 21:31:58,552 DEBUG p.Parser [@ebay_kleinanzege_bot Telegram Executor] 200 : https://www.ebay-kleinanzeigen.de/iphone/k0
+2023-01-28 21:31:59,556 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] getConnect out
+2023-01-28 21:31:59,599 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument in
+2023-01-28 21:31:59,602 WARN p.Parser [@ebay_kleinanzege_bot Telegram Executor] Total path https://www.ebay-kleinanzeigen.de/iphone/k0
+2023-01-28 21:31:59,610 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument out
+2023-01-28 21:39:39,396 INFO t.Bot [main] Init variables, token and username
+2023-01-28 21:42:58,687 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] getConnect in
+2023-01-28 21:42:59,201 DEBUG p.Parser [@ebay_kleinanzege_bot Telegram Executor] 200 : https://www.ebay-kleinanzeigen.de/iphone/k0
+2023-01-28 21:43:00,203 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] getConnect out
+2023-01-28 21:43:00,307 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument in
+2023-01-28 21:43:00,313 WARN p.Parser [@ebay_kleinanzege_bot Telegram Executor] Total path https://www.ebay-kleinanzeigen.de/iphone/k0
+2023-01-28 21:43:00,324 INFO p.Parser [@ebay_kleinanzege_bot Telegram Executor] parseProductFromDocument out
