@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.Properties;
 
 public class Bot extends TelegramLongPollingBot {
-  private static final String PATH_TO_PROP_FILE = "src\\main\\resources\\config.properties";
+  private static final String PATH_TO_PROP_FILE = "src/main/resources/config.properties";
   private List<Product> products;
   private static String TOKEN_BOT;
   private static String USERNAME_BOT;
