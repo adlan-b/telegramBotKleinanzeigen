@@ -16,7 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.14.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.15.3" level="project" />
     <orderEntry type="library" name="Maven: org.telegram:telegrambots:5.7.1" level="project" />
     <orderEntry type="library" name="Maven: org.telegram:telegrambots-meta:5.7.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:30.0-jre" level="project" />
