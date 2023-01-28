@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kleinanzeige" target="14" />
+      <module name="kleinanzeige" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
